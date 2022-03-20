@@ -1,0 +1,11 @@
+html, 
+body {
+    font-size: 14px;
+}
+
+body {
+    background-color: var(--color-background);
+    color: var(--color-font);
+    font-family: 'Abril Fatface', sans-serif;
+    text-align: center;
+}
